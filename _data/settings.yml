@@ -2,7 +2,7 @@ menu:
 - {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 - {name: 'talks', url: '/talks'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: '/assets/Joshuah_Heath_CV.pdf'}
 - {name: 'contact', url: '/contact'}
 
 people:
